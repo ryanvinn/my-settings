@@ -16,6 +16,9 @@ syntax on
 " To add numbers to each line on the left-hand side
 set number
 
+" To add relative numbers
+set relativenumber
+
 " To highlight cursor line underneath the cursor horizontally
 set cursorline
 
@@ -27,3 +30,6 @@ colorscheme gruvbox
 
 " To set background as dark
 set background=dark
+
+" To set colorcolumn to 80
+set colorcolumn=80
